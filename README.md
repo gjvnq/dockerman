@@ -13,6 +13,8 @@ Planned features:
 - [ ] Run stuff on containers
 - [ ] Docker compose via git repos
 - [ ] Auto update images
+- [ ] Secrets storage - via obfuscation
+- [ ] Secrets storage - via TPM
 
 Possible features if I ever decide this project should usurp traefik's features:
 - [ ] Green blue deployments
